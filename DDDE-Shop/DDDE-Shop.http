@@ -1,0 +1,6 @@
+@DDDE_Shop_HostAddress = http://localhost:5223
+
+GET {{DDDE_Shop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

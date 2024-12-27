@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA592EA5-12E1-4D0F-803F-0EEDE00CE740}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\infrastructure\\data\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA592EA5-12E1-4D0F-803F-0EEDE00CE740}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB4EC76-918C-4BF8-B578-6CE9D5026C45}|AppHost\\AppHost.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB4EC76-918C-4BF8-B578-6CE9D5026C45}|AppHost\\AppHost.csproj|solutionrelative:apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA592EA5-12E1-4D0F-803F-0EEDE00CE740}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\infrastructure\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA592EA5-12E1-4D0F-803F-0EEDE00CE740}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5008C023-28D3-40FE-BFA1-374E0F61AAA9}|DDDE-Shop\\API.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ddde-shop\\endpoints\\catalogitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5008C023-28D3-40FE-BFA1-374E0F61AAA9}|DDDE-Shop\\API.csproj|solutionrelative:ddde-shop\\endpoints\\catalogitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5008C023-28D3-40FE-BFA1-374E0F61AAA9}|DDDE-Shop\\API.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ddde-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5008C023-28D3-40FE-BFA1-374E0F61AAA9}|DDDE-Shop\\API.csproj|solutionrelative:ddde-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.domain\\aggregatemodels\\buyeraggregate\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:ordering.domain\\aggregatemodels\\buyeraggregate\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.domain\\aggregatemodels\\buyeraggregate\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:ordering.domain\\aggregatemodels\\buyeraggregate\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.domain\\aggregatemodels\\buyeraggregate\\cardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:ordering.domain\\aggregatemodels\\buyeraggregate\\cardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.domain\\aggregatemodels\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:ordering.domain\\aggregatemodels\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378E546E-79D8-48A9-86FA-689FC78F6A32}|Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.infrastructure\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378E546E-79D8-48A9-86FA-689FC78F6A32}|Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:ordering.infrastructure\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378E546E-79D8-48A9-86FA-689FC78F6A32}|Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.infrastructure\\orderingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378E546E-79D8-48A9-86FA-689FC78F6A32}|Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:ordering.infrastructure\\orderingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.domain\\aggregatemodels\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:ordering.domain\\aggregatemodels\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.domain\\aggregatemodels\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:ordering.domain\\aggregatemodels\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\ordering.domain\\aggregatemodels\\orderaggregate\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39A9486-6BC8-4AC9-939E-4F8C413DA4BA}|Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:ordering.domain\\aggregatemodels\\orderaggregate\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49609DEB-195C-49F9-8B40-20A134394DE9}|IntegrationEventLogEF\\IntegrationEventLogEF.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\integrationeventlogef\\services\\integrationeventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49609DEB-195C-49F9-8B40-20A134394DE9}|IntegrationEventLogEF\\IntegrationEventLogEF.csproj|solutionrelative:integrationeventlogef\\services\\integrationeventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49609DEB-195C-49F9-8B40-20A134394DE9}|IntegrationEventLogEF\\IntegrationEventLogEF.csproj|c:\\users\\user\\source\\repos\\ddde-shop\\integrationeventlogef\\services\\iintegrationeventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49609DEB-195C-49F9-8B40-20A134394DE9}|IntegrationEventLogEF\\IntegrationEventLogEF.csproj|solutionrelative:integrationeventlogef\\services\\iintegrationeventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1225,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\AppHost\\Program.cs",
+              "RelativeToolTip": "AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T19:53:51.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuditableEntityInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:27:43.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfrastructureDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Infrastructure\\InfrastructureDependencies.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InfrastructureDependencies.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Infrastructure\\InfrastructureDependencies.cs",
+              "RelativeToolTip": "Infrastructure\\InfrastructureDependencies.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:27:40.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogItems.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\DDDE-Shop\\Endpoints\\CatalogItems.cs",
+              "RelativeDocumentMoniker": "DDDE-Shop\\Endpoints\\CatalogItems.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\DDDE-Shop\\Endpoints\\CatalogItems.cs",
+              "RelativeToolTip": "DDDE-Shop\\Endpoints\\CatalogItems.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:44:55.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\DDDE-Shop\\Program.cs",
+              "RelativeDocumentMoniker": "DDDE-Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\DDDE-Shop\\Program.cs",
+              "RelativeToolTip": "DDDE-Shop\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:00:14.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\BuyerAggregate\\Buyer.cs",
+              "RelativeDocumentMoniker": "Ordering.Domain\\AggregateModels\\BuyerAggregate\\Buyer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\BuyerAggregate\\Buyer.cs",
+              "RelativeToolTip": "Ordering.Domain\\AggregateModels\\BuyerAggregate\\Buyer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:28:02.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\BuyerAggregate\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Ordering.Domain\\AggregateModels\\BuyerAggregate\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\BuyerAggregate\\PaymentMethod.cs",
+              "RelativeToolTip": "Ordering.Domain\\AggregateModels\\BuyerAggregate\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:25:52.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardType.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\BuyerAggregate\\CardType.cs",
+              "RelativeDocumentMoniker": "Ordering.Domain\\AggregateModels\\BuyerAggregate\\CardType.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\BuyerAggregate\\CardType.cs",
+              "RelativeToolTip": "Ordering.Domain\\AggregateModels\\BuyerAggregate\\CardType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:24:45.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\OrderAggregate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Ordering.Domain\\AggregateModels\\OrderAggregate\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\OrderAggregate\\OrderItem.cs",
+              "RelativeToolTip": "Ordering.Domain\\AggregateModels\\OrderAggregate\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:19:00.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "globalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Infrastructure\\globalUsings.cs",
+              "RelativeDocumentMoniker": "Ordering.Infrastructure\\globalUsings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Infrastructure\\globalUsings.cs",
+              "RelativeToolTip": "Ordering.Infrastructure\\globalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:16:59.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderingContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Infrastructure\\OrderingContext.cs",
+              "RelativeDocumentMoniker": "Ordering.Infrastructure\\OrderingContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Infrastructure\\OrderingContext.cs",
+              "RelativeToolTip": "Ordering.Infrastructure\\OrderingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:12:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enumeration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\Enumeration.cs",
+              "RelativeDocumentMoniker": "Ordering.Domain\\AggregateModels\\Enumeration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\Enumeration.cs",
+              "RelativeToolTip": "Ordering.Domain\\AggregateModels\\Enumeration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:11:07.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\OrderAggregate\\Order.cs",
+              "RelativeDocumentMoniker": "Ordering.Domain\\AggregateModels\\OrderAggregate\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\OrderAggregate\\Order.cs",
+              "RelativeToolTip": "Ordering.Domain\\AggregateModels\\OrderAggregate\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:11:05.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\OrderAggregate\\Address.cs",
+              "RelativeDocumentMoniker": "Ordering.Domain\\AggregateModels\\OrderAggregate\\Address.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\Ordering.Domain\\AggregateModels\\OrderAggregate\\Address.cs",
+              "RelativeToolTip": "Ordering.Domain\\AggregateModels\\OrderAggregate\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:11:05.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IntegrationEventLogService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\IntegrationEventLogEF\\Services\\IntegrationEventLogService.cs",
+              "RelativeDocumentMoniker": "IntegrationEventLogEF\\Services\\IntegrationEventLogService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\IntegrationEventLogEF\\Services\\IntegrationEventLogService.cs",
+              "RelativeToolTip": "IntegrationEventLogEF\\Services\\IntegrationEventLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:06:58.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IIntegrationEventLogService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\IntegrationEventLogEF\\Services\\IIntegrationEventLogService.cs",
+              "RelativeDocumentMoniker": "IntegrationEventLogEF\\Services\\IIntegrationEventLogService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DDDE-Shop\\IntegrationEventLogEF\\Services\\IIntegrationEventLogService.cs",
+              "RelativeToolTip": "IntegrationEventLogEF\\Services\\IIntegrationEventLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:06:56.153Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

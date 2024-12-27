@@ -1,0 +1,149 @@
+[
+  {
+    "ContainingType": "API.Endpoints.CatalogItems",
+    "Method": "GetCatalogItemsFilter",
+    "RelativePath": "api/CatalogItems/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "CatalogBrandId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoryId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.BaseResponse\u00601[[Application.CatalogItems.Queries.GetCatalogItemsWithPagination.CatalogItemBriefDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "CatalogItems"
+    ],
+    "EndpointName": "GetCatalogItemsFilter"
+  },
+  {
+    "ContainingType": "API.Endpoints.CatalogItems",
+    "Method": "CreateCatalogItem",
+    "RelativePath": "api/CatalogItems/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.CatalogItems.Commands.CreateCatalogItem.CreateCatalogItemCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "CatalogItems"
+    ],
+    "EndpointName": "CreateCatalogItem"
+  },
+  {
+    "ContainingType": "API.Endpoints.CatalogItems",
+    "Method": "UpdateCatalogItem",
+    "RelativePath": "api/CatalogItems/",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.CatalogItems.Commands.UpdateCatalogItem.UpdateCatalogItemCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Application.CatalogItems.Queries.GetCatalogItemsWithPagination.CatalogItemBriefDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "CatalogItems"
+    ],
+    "EndpointName": "UpdateCatalogItem"
+  },
+  {
+    "ContainingType": "API.Endpoints.CatalogItems",
+    "Method": "DeleteCatalogItem",
+    "RelativePath": "api/CatalogItems/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "CatalogItems"
+    ],
+    "EndpointName": "DeleteCatalogItem"
+  },
+  {
+    "ContainingType": "API.Endpoints.Category",
+    "Method": "GetCategories",
+    "RelativePath": "api/Category/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Common.BaseResponse\u00601[[API.Endpoints.Category, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Category"
+    ],
+    "EndpointName": "GetCategories"
+  }
+]

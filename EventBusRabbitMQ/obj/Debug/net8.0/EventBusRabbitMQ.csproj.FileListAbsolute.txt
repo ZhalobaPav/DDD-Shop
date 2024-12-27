@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\bin\Debug\net8.0\EventBusRabbitMQ.deps.json
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\bin\Debug\net8.0\EventBusRabbitMQ.dll
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\bin\Debug\net8.0\EventBusRabbitMQ.pdb
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\obj\Debug\net8.0\EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\obj\Debug\net8.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\obj\Debug\net8.0\EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\obj\Debug\net8.0\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\obj\Debug\net8.0\EventBusRabbitMQ.dll
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\obj\Debug\net8.0\refint\EventBusRabbitMQ.dll
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\obj\Debug\net8.0\EventBusRabbitMQ.pdb
+C:\Users\user\source\repos\DDDE-Shop\EventBusRabbitMQ\obj\Debug\net8.0\ref\EventBusRabbitMQ.dll
