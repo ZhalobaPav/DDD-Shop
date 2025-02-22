@@ -6,4 +6,6 @@ builder.AddProject<Projects.Basket_API>("basket-api")
 
 builder.AddProject<Projects.Ordering_Api>("ordering-api");
 
+builder.AddProject<Projects.Identity_API>("identity-api");
+
 builder.Build().Run();

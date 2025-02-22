@@ -4,5 +4,6 @@
     {
         public List<T> CatalogItems { get; set; } = new List<T>();
         public int PageCount { get; set; }
+        public int? TotalItems { get; set; }
     }
 }

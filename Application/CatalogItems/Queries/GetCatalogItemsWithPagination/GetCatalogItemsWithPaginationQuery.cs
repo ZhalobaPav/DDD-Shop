@@ -28,13 +28,14 @@ namespace Application.CatalogItems.Queries.GetCatalogItemsWithPagination
             var filterSpec = new CatalogFilterSpecification(request.CatalogBrandId, request.CategoryId);
             int totalItems = await _itemRepository.CountAsync(filterSpec);
             var pagedSpec = new CatalogFilterPaginatedSpecification(
-                skip: request.PageNumber * request.PageSize,
+                skip: (request.PageNumber - 1) * request.PageSize,
                 take: request.PageSize,
                 brandId: request.CatalogBrandId,
                 typeId: request.CategoryId);
 
             var items = await _itemRepository.ListAsync(pagedSpec);
             response.CatalogItems.AddRange(_mapper.Map<List<CatalogItemBriefDto>>(items));
+            response.TotalItems = totalItems;
             if (request.PageSize > 0)
             {
                 response.PageCount = int.Parse(Math.Ceiling((decimal)totalItems / request.PageSize).ToString());

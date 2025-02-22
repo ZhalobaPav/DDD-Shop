@@ -12,6 +12,13 @@ builder.Services.ConfigureInfrastructure(builder.Configuration);
 builder.Services.AddServiceDependencies();
 builder.Services.AddApplicationDependencies();
 builder.Services.AddWebServices();
+builder.Services.AddCors(opt =>
+{
+    opt.AddPolicy("CorsPolicy", policy =>
+    {
+        policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200");
+    });
+});
 var app = builder.Build();
 
 
@@ -41,6 +48,8 @@ using (var scope = app.Services.CreateScope())
         app.Logger.LogError(ex, "An error occurred seeding the DB.");
     }
 }
+app.UseCors("CorsPolicy");
+app.UseStaticFiles();
 app.UseHttpsRedirection();
 app.Map("/", () => Results.Redirect("/api"));
 app.MapEndpoints();

@@ -1,0 +1,28 @@
+<div class="card h-100 product-card">
+    <div class="product-image position-relative">
+        <img [src]="product.pictureUri" 
+             [alt]="product.name" 
+             class="img-fluid bg-info">
+        <div class="product-overlay">
+            <div class="overlay-content">
+                <button class="btn btn-primary btn-cart">
+                    <i class="fa fa-shopping-cart"></i>
+                </button>
+                <button class="btn btn-secondary btn-view" 
+                        [routerLink]="['/shop', product.id]">
+                    <i class="fa fa-eye"></i> View
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="card-body d-flex flex-column">
+        <h6 class="card-title text-uppercase">
+            <a [routerLink]="['/shop', product.id]" class="text-decoration-none text-dark">
+                {{product.name}}
+            </a>
+        </h6>
+        <div class="mt-auto">
+            <span class="product-price">{{product.price | currency}}</span>
+        </div>
+    </div>
+</div>
